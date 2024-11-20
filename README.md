@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Tautan build badge:
+[![Build status](https://build.appcenter.ms/v0.1/apps/8a5468de-b4fa-4860-a55d-521fc3cd0dec/branches/main/badge)](https://appcenter.ms)
+
+Tautan publik dari publikasi aplikasi:
+https://install.appcenter.ms/orgs/pbp-applications/apps/mental-health-tracker/distribution_groups/public/releases/1
